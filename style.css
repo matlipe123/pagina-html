@@ -1,6 +1,7 @@
-body(background-color: blueviolet;);text-align'-justify:font-size:18px;}
-h1(text-align:center;backround-color,#2fbdba;color:#1731313;)
-h3(text-align=justify;color:blue;;)
-b(color;blue;font-size:18px;)
-(color;blue;font-size:18px;)
-header, foater 
+body{background-color: blueviolet;};text-align'-justify:font-size:18px;}
+h1{text-align:center;backround-color:#2fbdba;color: #173131;}
+h3{text-align:center;color:blue;;}
+b{color;blue;font-size:18px;}
+i{color:blue;font-size:18px;}
+header, footer {background-color:#499cba;color:#ceeFFC;text_align:center;font-size:20px;}
+main{Background-color:#8DDEFC;}
